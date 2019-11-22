@@ -740,7 +740,15 @@ ul.footer-bottom-list{
 	float: right;
 
 }*/
-
+#fenlan{
+	width:90%; margin:0 auto; overflow:auto; _display:inline-block;
+}
+#fenr{
+	width:250px; float:left;
+}
+#fenl{
+	width:250px; float:left;
+}
 ul.footer-bottom-list li {
 	width:300px; 
 	float:left; 
