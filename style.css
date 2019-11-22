@@ -730,6 +730,7 @@ label {
 
 /* //contact */
 ul.footer-bottom-list{
+	width: 680px;
 	position: absolute;
 	float: left;
 	margin-right: 50px;
@@ -741,6 +742,9 @@ ul.footer-bottom-list{
 }*/
 
 ul.footer-bottom-list li {
+	width:300px; 
+	float:left; 
+	display:block;
     list-style: none;
     margin-bottom: 1em;
     color: #8c9398;
