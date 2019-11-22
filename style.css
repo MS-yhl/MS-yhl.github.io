@@ -729,12 +729,7 @@ label {
 }
 
 /* //contact */
-ul.footer-bottom-list{
-	width: 680px;
-	position: absolute;
-	float: left;
-	margin-right: 50px;
-}
+
 /*ul.footer-bottom-list1{
 	position: absolute;
 	float: right;
@@ -750,7 +745,7 @@ ul.footer-bottom-list{
 	width:250px; float:left;
 }
 ul.footer-bottom-list li {
-	width:300px; 
+	
 	float:left; 
 	display:block;
     list-style: none;
